@@ -4,6 +4,9 @@
 
 Hey there, I'm Dominic aka Splines and I love science & coding. I have a Bachelor's degree in computer science (worked at SAP) and am currently doing my second Bachelor's degree in physics at Heidelberg University.
 
+<p align="center">
+  Quick links: <a href="https://youtube.com/splines">Music</a> | <a href="https://youtube.com/@splience">Science Videos</a>
+</p>
 
 ### Coding
 
@@ -14,7 +17,6 @@ Most of what I code is open-source. I feel comfortable in these programming lang
 - **Python** for various projects like a [Captive Portal on the Raspberry Pi](https://github.com/Splines/raspi-captive-portal). But also for (mostly private) data science projects. And for machine learning with PyTorch in the [Scientific AI group](https://sciai-lab.org/).
 - **Rust** (and partially **C++**) for performance-intensive tasks like [parallelizing](https://github.com/Splines/phonetics-graph) the Needleman–Wunsch algorithm on an GPU. I've also written a [paper](https://arxiv.org/abs/2509.01654) about it. Also used Rust to implement a fast version of the [Louvain algorithm](https://github.com/splines/fast-louvain).
 - For typesetting, I used LaTeX for a long time am now slowly switching to [Typst](https://typst.app/).
-
 
 ### Also find me here
 
