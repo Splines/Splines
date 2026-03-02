@@ -26,4 +26,4 @@ Most of what I code is open-source. See also my [blog](https://splines.me) for s
 - Music on [YouTube (Splines)](https://youtube.com/splines), [Spotify](https://open.spotify.com/artist/5ftAWGcc988kE4Y8nJ1Urm), [Tidal](https://tidal.com/artist/27305838) (and most other major streaming services)
 - Science videos on [YouTube (Splience)](https://youtube.com/@splience)
 
-Contact: see my [website](https://splines.me/). Support: You can support on [GitHub Sponsors](https://github.com/sponsors/Splines/) or on [BuyMeACoffee](https://buymeacoffee.com/splience).
+Contact: see my [website](https://splines.me/). Support: You can support me on [GitHub Sponsors](https://github.com/sponsors/Splines/) or on [BuyMeACoffee](https://buymeacoffee.com/splience).
