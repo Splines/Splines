@@ -2,7 +2,7 @@
   <img alt="Banner with the text Splines/Splience and a graph as background in front of an open sky and clouds" src="./assets/banner.png" />
 </p>
 
-Hey there, I'm Dominic aka Splines and I love science & coding. I have a Bachelor's degree in computer science (worked at SAP) and am currently doing my second Bachelor's degree in physics at Heidelberg University.
+Hey there, I'm Dominic aka Splines and I love science & coding. I have a Bachelor's degree in computer science (worked at SAP) and another Bachelor's degree in physics at Heidelberg University. Here in the beautiful Heidelberg, I am currently pursuing my Physics Master.
 
 <p align="center">
   Quick links: <a href="https://splines.me/">Blog</a> | <a href="https://youtube.com/splines">Music</a> | <a href="https://youtube.com/@splience">Science Videos</a>
